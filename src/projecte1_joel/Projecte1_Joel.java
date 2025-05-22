@@ -11,6 +11,7 @@ public class Projecte1_Joel {
         System.out.println("Leomar");
         
         System.out.println("Joel Del Olmo");
+        System.out.println("Jesus Castro");
     }
     
 }

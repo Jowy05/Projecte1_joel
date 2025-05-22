@@ -5,9 +5,12 @@ public class Projecte1_Joel {
     public static void main(String[] args) {
         
         System.out.println("Hola");
+        
         System.out.println("Leomar");
         System.out.println("Leomar");
         System.out.println("Leomar");
+        
+        System.out.println("Joel Del Olmo");
     }
     
 }
